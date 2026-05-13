@@ -1,4 +1,4 @@
-module github.com/casdoor/ldapserver
+module github.com/hanzoai/ldapserver
 
 go 1.14
 
